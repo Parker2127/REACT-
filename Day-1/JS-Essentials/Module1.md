@@ -1,5 +1,0 @@
-# A Brief Introduction to JavaScript
-
-**What have we learned today?**
-
-*Let's update this by tomorrow 5 am.*
